@@ -4,7 +4,10 @@ A pomodoro timer build with vite.js and styled-components. Using context and red
 ### To run the project
 
 ```bash
-npm run dev
-# or
 yarn dev
+```
+<p>or<pp>
+
+```bash
+npm run dev
 ```
